@@ -45,6 +45,7 @@ pip install torch torchaudio pandas numpy scikit-learn seaborn matplotlib onnx o
 pip install scipy
 
 pip install librosa
+
 **Usage**
 
 Run the main script to load data, train the model, convert to ONNX, and compare inference times:
