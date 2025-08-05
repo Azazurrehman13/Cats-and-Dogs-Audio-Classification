@@ -1,0 +1,11 @@
+📌 Overall Train Audio Stats:
+- Mean Duration:   7.20 sec
+- Median Duration: 6.71 sec
+- Std Dev:         4.54 sec
+- Mode Label:      cat
+
+📌 Per-Class Stats (Train):
+       count      mean     median       std
+label                                      
+cat      125  8.323921  10.800000  4.569179
+dog       85  5.550088   3.882563  3.999876
