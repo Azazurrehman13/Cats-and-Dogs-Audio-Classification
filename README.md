@@ -38,15 +38,13 @@ See requirements.txt for dependencies.
 
 Setup
 
-**Clone the Repository:**
-
-git clone https://github.com/your-username/cats-dogs-audio-classification.git
-cd cats-dogs-audio-classification
-
 **Install Dependencies:**
 
-pip install -r requirements.txt
+pip install torch torchaudio pandas numpy scikit-learn seaborn matplotlib onnx onnxruntime
 
+pip install scipy
+
+pip install librosa
 **Usage**
 
 Run the main script to load data, train the model, convert to ONNX, and compare inference times:
