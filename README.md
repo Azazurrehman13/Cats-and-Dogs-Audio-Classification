@@ -4,7 +4,7 @@ This repository implements a deep learning model to classify cat and dog sounds 
 
 Dataset
 
-**Source:** Kaggle Cats and Dogs Audio Dataset
+**Source:** [Kaggle Cats and Dogs Audio Dataset](https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs)
 
 **Structure:** WAV files for cat and dog sounds, split into training and test sets via train_test_split.csv.
 
